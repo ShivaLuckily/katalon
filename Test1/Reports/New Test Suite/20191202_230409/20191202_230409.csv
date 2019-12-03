@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Firefox 70.0,,2019-12-02 23:04:19,2019-12-02 23:05:31,1m - 11.958s,FAILED
+,,,,,,
+Test Cases/flipkartTestcase1,Firefox 70.0,,2019-12-02 23:04:20,2019-12-02 23:04:43,22.831s,FAILED
+"openBrowser("""")",Firefox 70.0,,2019-12-02 23:04:22,2019-12-02 23:04:42,20.076s,PASSED
+"navigateToUrl(""https://www.flipkart."")",Firefox 70.0,,2019-12-02 23:04:42,2019-12-02 23:04:43,1.361s,FAILED
+,,,,,,
+Test Cases/Testcase1,Firefox 70.0,,2019-12-02 23:04:43,2019-12-02 23:05:31,47.760s,PASSED
+"openBrowser("""")",Firefox 70.0,,2019-12-02 23:04:44,2019-12-02 23:05:07,23.390s,PASSED
+"navigateToUrl(""https://www.bluestone.com/"")",Firefox 70.0,,2019-12-02 23:05:07,2019-12-02 23:05:12,4.565s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Jewellery Shopping Store India  Buy Gold and Diamond jewellery with Latest Designs 2019  BlueStonecom/a_Rings""))",Firefox 70.0,,2019-12-02 23:05:12,2019-12-02 23:05:18,5.831s,PASSED
+"click(findTestObject(""Object Repository/Page_Rings - Buy 2050 Ring Designs Online in India 2019  BlueStonecom/img_Showing 1 - 24 of 2072 results_hc img-responsive center-block hu hi""))",Firefox 70.0,,2019-12-02 23:05:18,2019-12-02 23:05:19,1.225s,PASSED
+closeBrowser(),Firefox 70.0,,2019-12-02 23:05:19,2019-12-02 23:05:31,11.965s,PASSED

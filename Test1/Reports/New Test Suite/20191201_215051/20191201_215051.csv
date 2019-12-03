@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Firefox 70.0,,2019-12-01 21:51:01,2019-12-01 21:52:22,1m - 21.290s,PASSED
+,,,,,,
+Test Cases/flipkartTestcase1,Firefox 70.0,,2019-12-01 21:51:02,2019-12-01 21:51:27,24.620s,PASSED
+"openBrowser("""")",Firefox 70.0,,2019-12-01 21:51:03,2019-12-01 21:51:19,16.349s,PASSED
+"navigateToUrl(""https://www.flipkart.com/"")",Firefox 70.0,,2019-12-01 21:51:19,2019-12-01 21:51:26,6.686s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles Electronics Furniture Grocery Lifestyle Books  More Best Offers/button_""))",Firefox 70.0,,2019-12-01 21:51:26,2019-12-01 21:51:27,0.605s,PASSED
+,,,,,,
+Test Cases/Testcase1,Firefox 70.0,,2019-12-01 21:51:27,2019-12-01 21:52:22,55.033s,PASSED
+"openBrowser("""")",Firefox 70.0,,2019-12-01 21:51:27,2019-12-01 21:51:55,27.807s,PASSED
+"navigateToUrl(""https://www.bluestone.com/"")",Firefox 70.0,,2019-12-01 21:51:55,2019-12-01 21:51:59,3.610s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Jewellery Shopping Store India  Buy Gold and Diamond jewellery with Latest Designs 2019  BlueStonecom/a_Rings""))",Firefox 70.0,,2019-12-01 21:51:59,2019-12-01 21:52:03,4.572s,PASSED
+"click(findTestObject(""Object Repository/Page_Rings - Buy 2050 Ring Designs Online in India 2019  BlueStonecom/img_Showing 1 - 24 of 2072 results_hc img-responsive center-block hu hi""))",Firefox 70.0,,2019-12-01 21:52:03,2019-12-01 21:52:04,0.979s,PASSED
+closeBrowser(),Firefox 70.0,,2019-12-01 21:52:04,2019-12-01 21:52:22,17.480s,PASSED
