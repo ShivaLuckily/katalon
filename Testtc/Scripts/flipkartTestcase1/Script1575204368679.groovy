@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.flipkart.')
+WebUI.navigateToUrl('https://www.flipkart.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles Electronics Furniture Grocery Lifestyle Books  More Best Offers/button_'))
 
